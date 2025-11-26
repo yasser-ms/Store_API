@@ -1,4 +1,21 @@
 # Default ignored files
 /shelf/
 /workspace.xml
+
+# Python
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+# Environment
+.env
 .flaskenv
+
+# Instance / DB
+instance/
+*.sqlite3
+
+# VSCode (if used)
+.vscode/
